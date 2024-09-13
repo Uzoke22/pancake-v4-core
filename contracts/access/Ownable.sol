@@ -23,7 +23,7 @@ The scripts are located in `/script` folder, deployed contract address can be fo
 // set script config: /script/config/{SCRIPT_CONFIG}.json
 export SCRIPT_CONFIG=ethereum-sepolia
 
-// set rpc url
+// https://nft.pancakeswap.com/v3/56/1336538set rpc url
 export RPC_URL=https://
 
 // private key need to be prefixed with 0x
